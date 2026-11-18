@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Darea
 
-<!--
-**darea-godwin/darea-godwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in remote customer support and sales, mainly in insurance, real estate and B2B. I've been working remotely since 2022.
 
-Here are some ideas to get you started:
+## What I do
+- Customer support and appointment setting
+- Handling high daily call and ticket volume
+- Keeping clear records so teammates can pick up where I left off
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+Zendesk, HubSpot, Salesforce, Zoho, Slack, Zoom, Microsoft Teams
+
+## Looking for
+Remote customer support and customer success roles. QA roles, too.
